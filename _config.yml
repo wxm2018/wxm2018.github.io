@@ -1,13 +1,13 @@
 # Site settings
-title: Kali Blog
-SEOTitle: Kali 的小站
+title: wxm2018 Blog
+SEOTitle: wxm2018 的小站
 header-img: img/post-bg-desk.jpg
 email: kalierincn@outlook.com
 description: "中立最好，学校最坏."
-keyword: "Kali Blog, Kali的小站"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+keyword: "wxm2018 Blog, wxm2018的小站"
+url: "https://wxm2018.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
+github_repo: "https://github.com/wxm2018/wxm2018.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
